@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StudentDatabaseApplication<student_database>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rio.student_database.StudentDatabaseApplication",
+            "projectName": "student_database",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
