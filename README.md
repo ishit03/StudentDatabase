@@ -2,18 +2,18 @@
 
 NOTE: Local XAMPP server is used for the database functionalities
 
-Functions 🔧
+Functions 🔧 \
 
-⚪ Insert New Student Data
-⚪ Update/Modify Existing Student Data
-⚪ Delete a Student Data
-⚪ Generate a Randomized Marksheet
+⚪ Insert New Student Data \
+⚪ Update/Modify Existing Student Data \
+⚪ Delete a Student Data \
+⚪ Generate a Randomized Marksheet \
 
-Technologies 🧑‍💻
+Technologies 🧑‍💻 \
 
-🔵 Java
-🔵 Spring Boot
-🔵 Jakarta Persistence API (JPA)
-🔵 Java Server Pages (JSP)
-🔵 HTML & CSS
+🔵 Java \
+🔵 Spring Boot \
+🔵 Jakarta Persistence API (JPA) \
+🔵 Java Server Pages (JSP) \
+🔵 HTML & CSS \
 🔵 MySql
